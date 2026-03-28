@@ -162,8 +162,8 @@
           </numberof>
         </structure>
       </hlinscription>
-      <arcpath arcPointType="false" id="0" xCoord="176" yCoord="117"/>
-      <arcpath arcPointType="false" id="1" xCoord="120" yCoord="120"/>
+      <arcpath arcPointType="false" id="0" xCoord="175" yCoord="116"/>
+      <arcpath arcPointType="false" id="1" xCoord="120" yCoord="119"/>
     </arc>
     <arc id="A3" inscription="[0,inf)" nameOffsetX="0" nameOffsetY="0" source="generator" target="submit" type="timed" weight="1">
       <hlinscription>
@@ -181,8 +181,8 @@
           </numberof>
         </structure>
       </hlinscription>
-      <arcpath arcPointType="false" id="0" xCoord="120" yCoord="122"/>
-      <arcpath arcPointType="false" id="1" xCoord="175" yCoord="127"/>
+      <arcpath arcPointType="false" id="0" xCoord="120" yCoord="121"/>
+      <arcpath arcPointType="false" id="1" xCoord="175" yCoord="126"/>
     </arc>
     <arc id="A2" inscription="1" nameOffsetX="0" nameOffsetY="0" source="submit" target="submission" type="normal" weight="1">
       <hlinscription>
@@ -200,8 +200,8 @@
           </numberof>
         </structure>
       </hlinscription>
-      <arcpath arcPointType="false" id="0" xCoord="185" yCoord="121"/>
-      <arcpath arcPointType="false" id="1" xCoord="256" yCoord="121"/>
+      <arcpath arcPointType="false" id="0" xCoord="185" yCoord="120"/>
+      <arcpath arcPointType="false" id="1" xCoord="255" yCoord="120"/>
     </arc>
     <arc id="A4" inscription="[0,inf)" nameOffsetX="0" nameOffsetY="0" source="submission" target="stage" type="timed" weight="1">
       <hlinscription>
@@ -219,7 +219,7 @@
           </numberof>
         </structure>
       </hlinscription>
-      <arcpath arcPointType="false" id="0" xCoord="286" yCoord="121"/>
+      <arcpath arcPointType="false" id="0" xCoord="285" yCoord="120"/>
       <arcpath arcPointType="false" id="1" xCoord="355" yCoord="121"/>
     </arc>
     <arc id="A5" inscription="1" nameOffsetX="0" nameOffsetY="0" source="stage" target="staging" type="normal" weight="1">
@@ -238,12 +238,12 @@
           </numberof>
         </structure>
       </hlinscription>
-      <arcpath arcPointType="false" id="0" xCoord="366" yCoord="116"/>
-      <arcpath arcPointType="false" id="1" xCoord="436" yCoord="120"/>
+      <arcpath arcPointType="false" id="0" xCoord="365" yCoord="115"/>
+      <arcpath arcPointType="false" id="1" xCoord="435" yCoord="119"/>
     </arc>
     <arc id="I5" inscription="[0,inf)" nameOffsetX="0" nameOffsetY="0" source="staging" target="stage" type="tapnInhibitor" weight="3">
-      <arcpath arcPointType="false" id="0" xCoord="436" yCoord="121"/>
-      <arcpath arcPointType="false" id="1" xCoord="365" yCoord="126"/>
+      <arcpath arcPointType="false" id="0" xCoord="435" yCoord="121"/>
+      <arcpath arcPointType="false" id="1" xCoord="365" yCoord="125"/>
     </arc>
     <arc id="A6" inscription="[0,inf)" nameOffsetX="0" nameOffsetY="0" source="staging" target="validate" type="timed" weight="1">
       <hlinscription>
@@ -261,7 +261,7 @@
           </numberof>
         </structure>
       </hlinscription>
-      <arcpath arcPointType="false" id="0" xCoord="466" yCoord="121"/>
+      <arcpath arcPointType="false" id="0" xCoord="465" yCoord="120"/>
       <arcpath arcPointType="false" id="1" xCoord="535" yCoord="121"/>
     </arc>
     <arc id="A7" inscription="1" nameOffsetX="0" nameOffsetY="0" source="validate" target="validating" type="normal" weight="1">
@@ -280,12 +280,12 @@
           </numberof>
         </structure>
       </hlinscription>
-      <arcpath arcPointType="false" id="0" xCoord="546" yCoord="116"/>
-      <arcpath arcPointType="false" id="1" xCoord="616" yCoord="120"/>
+      <arcpath arcPointType="false" id="0" xCoord="545" yCoord="115"/>
+      <arcpath arcPointType="false" id="1" xCoord="615" yCoord="119"/>
     </arc>
     <arc id="I8" inscription="[0,inf)" nameOffsetX="0" nameOffsetY="0" source="validating" target="validate" type="tapnInhibitor" weight="1">
-      <arcpath arcPointType="false" id="0" xCoord="616" yCoord="121"/>
-      <arcpath arcPointType="false" id="1" xCoord="545" yCoord="126"/>
+      <arcpath arcPointType="false" id="0" xCoord="615" yCoord="121"/>
+      <arcpath arcPointType="false" id="1" xCoord="545" yCoord="125"/>
     </arc>
     <arc id="A9" inscription="[0,inf)" nameOffsetX="0" nameOffsetY="0" source="validating" target="dispatch" type="timed" weight="1">
       <hlinscription>
@@ -303,8 +303,8 @@
           </numberof>
         </structure>
       </hlinscription>
-      <arcpath arcPointType="false" id="0" xCoord="645" yCoord="121"/>
-      <arcpath arcPointType="false" id="1" xCoord="715" yCoord="123"/>
+      <arcpath arcPointType="false" id="0" xCoord="645" yCoord="120"/>
+      <arcpath arcPointType="false" id="1" xCoord="715" yCoord="122"/>
     </arc>
     <arc id="A10" inscription="[0,inf)" nameOffsetX="0" nameOffsetY="0" source="manager" target="dispatch" type="timed" weight="1">
       <hlinscription>
@@ -322,7 +322,7 @@
           </numberof>
         </structure>
       </hlinscription>
-      <arcpath arcPointType="false" id="0" xCoord="643" yCoord="173"/>
+      <arcpath arcPointType="false" id="0" xCoord="643" yCoord="172"/>
       <arcpath arcPointType="false" id="1" xCoord="715" yCoord="129"/>
     </arc>
     <arc id="A11" inscription="[0,inf)" nameOffsetX="0" nameOffsetY="0" source="workers" target="dispatch" type="timed" weight="1">
@@ -341,8 +341,8 @@
           </numberof>
         </structure>
       </hlinscription>
-      <arcpath arcPointType="false" id="0" xCoord="643" yCoord="69"/>
-      <arcpath arcPointType="false" id="1" xCoord="716" yCoord="115"/>
+      <arcpath arcPointType="false" id="0" xCoord="643" yCoord="68"/>
+      <arcpath arcPointType="false" id="1" xCoord="715" yCoord="115"/>
     </arc>
     <arc id="A12" inscription="1" nameOffsetX="0" nameOffsetY="0" source="dispatch" target="dispatching" type="normal" weight="1">
       <hlinscription>
@@ -360,8 +360,8 @@
           </numberof>
         </structure>
       </hlinscription>
-      <arcpath arcPointType="false" id="0" xCoord="725" yCoord="121"/>
-      <arcpath arcPointType="false" id="1" xCoord="796" yCoord="121"/>
+      <arcpath arcPointType="false" id="0" xCoord="725" yCoord="120"/>
+      <arcpath arcPointType="false" id="1" xCoord="795" yCoord="120"/>
     </arc>
     <arc id="A13" inscription="[0,inf)" nameOffsetX="0" nameOffsetY="0" source="dispatching" target="deploying" type="timed" weight="1">
       <hlinscription>
@@ -379,8 +379,8 @@
           </numberof>
         </structure>
       </hlinscription>
-      <arcpath arcPointType="false" id="0" xCoord="825" yCoord="120"/>
-      <arcpath arcPointType="false" id="1" xCoord="896" yCoord="117"/>
+      <arcpath arcPointType="false" id="0" xCoord="825" yCoord="119"/>
+      <arcpath arcPointType="false" id="1" xCoord="895" yCoord="116"/>
     </arc>
     <arc id="A14" inscription="1" nameOffsetX="0" nameOffsetY="0" source="deploying" target="manager" type="normal" weight="1">
       <hlinscription>
@@ -398,8 +398,8 @@
           </numberof>
         </structure>
       </hlinscription>
-      <arcpath arcPointType="false" id="0" xCoord="895" yCoord="127"/>
-      <arcpath arcPointType="false" id="1" xCoord="645" yCoord="178"/>
+      <arcpath arcPointType="false" id="0" xCoord="895" yCoord="126"/>
+      <arcpath arcPointType="false" id="1" xCoord="645" yCoord="177"/>
     </arc>
     <arc id="A15" inscription="1" nameOffsetX="0" nameOffsetY="0" source="deploying" target="deploy" type="normal" weight="1">
       <hlinscription>
@@ -417,8 +417,8 @@
           </numberof>
         </structure>
       </hlinscription>
-      <arcpath arcPointType="false" id="0" xCoord="905" yCoord="121"/>
-      <arcpath arcPointType="false" id="1" xCoord="976" yCoord="121"/>
+      <arcpath arcPointType="false" id="0" xCoord="905" yCoord="120"/>
+      <arcpath arcPointType="false" id="1" xCoord="975" yCoord="120"/>
     </arc>
     <arc id="A16" inscription="[0,inf)" nameOffsetX="0" nameOffsetY="0" source="deploy" target="completing" type="timed" weight="1">
       <hlinscription>
@@ -436,8 +436,8 @@
           </numberof>
         </structure>
       </hlinscription>
-      <arcpath arcPointType="false" id="0" xCoord="1005" yCoord="122"/>
-      <arcpath arcPointType="false" id="1" xCoord="1075" yCoord="127"/>
+      <arcpath arcPointType="false" id="0" xCoord="1005" yCoord="121"/>
+      <arcpath arcPointType="false" id="1" xCoord="1075" yCoord="126"/>
     </arc>
     <arc id="A17" inscription="1" nameOffsetX="0" nameOffsetY="0" source="completing" target="workers" type="normal" weight="1">
       <hlinscription>
@@ -455,8 +455,8 @@
           </numberof>
         </structure>
       </hlinscription>
-      <arcpath arcPointType="false" id="0" xCoord="1076" yCoord="117"/>
-      <arcpath arcPointType="false" id="1" xCoord="645" yCoord="63"/>
+      <arcpath arcPointType="false" id="0" xCoord="1075" yCoord="116"/>
+      <arcpath arcPointType="false" id="1" xCoord="645" yCoord="62"/>
     </arc>
     <arc id="A18" inscription="1" nameOffsetX="0" nameOffsetY="0" source="completing" target="completed" type="normal" weight="1">
       <hlinscription>
@@ -474,27 +474,11 @@
           </numberof>
         </structure>
       </hlinscription>
-      <arcpath arcPointType="false" id="0" xCoord="1085" yCoord="121"/>
-      <arcpath arcPointType="false" id="1" xCoord="1141" yCoord="121"/>
+      <arcpath arcPointType="false" id="0" xCoord="1085" yCoord="120"/>
+      <arcpath arcPointType="false" id="1" xCoord="1140" yCoord="120"/>
     </arc>
   </net>
-  <query active="true" algorithmOption="CERTAIN_ZERO" approximationDenominator="0" capacity="4" colorFixpoint="false" coloredReduction="false" discreteInclusion="false" enableOverApproximation="false" enableUnderApproximation="false" extrapolationOption="null" gcd="false" hashTableSize="null" inclusionPlaces="*NONE*" name="Staging never exceeds 3" overApproximation="false" pTrie="false" partitioning="false" reduction="true" reductionOption="VerifyPN" searchOption="DFS" symmetricVars="false" symmetry="false" timeDarts="false" traceOption="NONE" type="CTL" useExplicitSearch="false" useQueryReduction="true" useSiphonTrapAnalysis="false" useStubbornReduction="true" useTarOption="false" useTarjan="true">
-    <formula>
-      <negation>
-        <exists-path>
-          <finally>
-            <integer-gt>
-              <tokens-count>
-                <place>TAPN1.staging</place>
-              </tokens-count>
-              <integer-constant>3</integer-constant>
-            </integer-gt>
-          </finally>
-        </exists-path>
-      </negation>
-    </formula>
-  </query>
-  <query active="true" algorithmOption="CERTAIN_ZERO" approximationDenominator="0" capacity="4" colorFixpoint="false" coloredReduction="false" discreteInclusion="false" enableOverApproximation="false" enableUnderApproximation="false" extrapolationOption="null" gcd="false" hashTableSize="null" inclusionPlaces="*NONE*" name="Staging at most 3" overApproximation="false" pTrie="false" partitioning="false" reduction="true" reductionOption="VerifyPN" searchOption="DFS" symmetricVars="false" symmetry="false" timeDarts="false" traceOption="NONE" type="CTL" useExplicitSearch="false" useQueryReduction="true" useSiphonTrapAnalysis="false" useStubbornReduction="true" useTarOption="false" useTarjan="true">
+  <query active="true" algorithmOption="CERTAIN_ZERO" approximationDenominator="0" capacity="4" colorFixpoint="false" coloredReduction="false" discreteInclusion="false" enableOverApproximation="false" enableUnderApproximation="false" extrapolationOption="AUTOMATIC" gcd="false" hashTableSize="MB_16" inclusionPlaces="*NONE*" name="Staging at most 3" overApproximation="false" pTrie="false" partitioning="false" reduction="true" reductionOption="VerifyPN" searchOption="DFS" symmetricVars="false" symmetry="false" timeDarts="false" traceOption="NONE" type="CTL" useExplicitSearch="false" useQueryReduction="true" useSiphonTrapAnalysis="false" useStubbornReduction="true" useTarOption="false" useTarjan="true">
     <formula>
       <all-paths>
         <globally>
@@ -504,6 +488,54 @@
             </tokens-count>
             <integer-constant>3</integer-constant>
           </integer-le>
+        </globally>
+      </all-paths>
+    </formula>
+  </query>
+  <query active="true" algorithmOption="CERTAIN_ZERO" approximationDenominator="0" capacity="4" colorFixpoint="false" coloredReduction="false" discreteInclusion="false" enableOverApproximation="false" enableUnderApproximation="false" extrapolationOption="null" gcd="false" hashTableSize="null" inclusionPlaces="*NONE*" name="Validation and dispatch don't exceed 1 token" overApproximation="false" pTrie="false" partitioning="false" reduction="true" reductionOption="VerifyPN" searchOption="RANDOMHEURISTIC" symmetricVars="false" symmetry="false" timeDarts="false" traceOption="NONE" type="CTL" useExplicitSearch="false" useQueryReduction="true" useSiphonTrapAnalysis="false" useStubbornReduction="true" useTarOption="false" useTarjan="true">
+    <formula>
+      <all-paths>
+        <globally>
+          <conjunction>
+            <integer-le>
+              <tokens-count>
+                <place>TAPN1.validating</place>
+              </tokens-count>
+              <integer-constant>1</integer-constant>
+            </integer-le>
+            <integer-le>
+              <tokens-count>
+                <place>TAPN1.dispatching</place>
+              </tokens-count>
+              <integer-constant>1</integer-constant>
+            </integer-le>
+          </conjunction>
+        </globally>
+      </all-paths>
+    </formula>
+  </query>
+  <query active="true" algorithmOption="CERTAIN_ZERO" approximationDenominator="0" capacity="4" colorFixpoint="false" coloredReduction="false" discreteInclusion="false" enableOverApproximation="false" enableUnderApproximation="false" extrapolationOption="null" gcd="false" hashTableSize="null" inclusionPlaces="*NONE*" name="Avoid deadlock" overApproximation="false" pTrie="false" partitioning="false" reduction="true" reductionOption="VerifyPN" searchOption="HEURISTIC" symmetricVars="false" symmetry="false" timeDarts="false" traceOption="NONE" type="CTL" useExplicitSearch="false" useQueryReduction="true" useSiphonTrapAnalysis="false" useStubbornReduction="true" useTarOption="false" useTarjan="true">
+    <formula>
+      <negation>
+        <exists-path>
+          <finally>
+            <deadlock/>
+          </finally>
+        </exists-path>
+      </negation>
+    </formula>
+  </query>
+  <query active="true" algorithmOption="CERTAIN_ZERO" approximationDenominator="0" capacity="4" colorFixpoint="false" coloredReduction="false" discreteInclusion="false" enableOverApproximation="false" enableUnderApproximation="false" extrapolationOption="null" gcd="false" hashTableSize="null" inclusionPlaces="*NONE*" name="Progress check" overApproximation="false" pTrie="false" partitioning="false" reduction="true" reductionOption="VerifyPN" searchOption="HEURISTIC" symmetricVars="false" symmetry="false" timeDarts="false" traceOption="NONE" type="CTL" useExplicitSearch="false" useQueryReduction="true" useSiphonTrapAnalysis="false" useStubbornReduction="true" useTarOption="false" useTarjan="true">
+    <formula>
+      <all-paths>
+        <globally>
+          <exists-path>
+            <finally>
+              <is-fireable>
+                <transition>TAPN1.completing</transition>
+              </is-fireable>
+            </finally>
+          </exists-path>
         </globally>
       </all-paths>
     </formula>
